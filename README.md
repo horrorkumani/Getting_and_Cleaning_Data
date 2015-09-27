@@ -1,4 +1,5 @@
 # Getting_and_Cleaning_Data
+Author: Horrorkumani
 
 ##run_analysis.R
 
@@ -28,9 +29,9 @@
 
 7. Print code book of the data set (after changing the data frame into a data set).
 
-(Run run_analysis.R using source() in RStudio)
+###Run run_analysis.R using source() in RStudio
 
-#Outputs produced
+###Outputs produced
 
 - Tidy dataset file sensor_avg_by_act_sub.txt
 - Codebook file CodeBook.md
